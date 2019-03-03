@@ -8,7 +8,21 @@ A farmer can produce and sell coffee beans to a distributor who ships them to a 
 
 There are four actors (farmer, distributor, retailer and consumer) who act like this.
 
-![truffle test](images/ftc_product_overview.png)
+### Activity Diagram
+
+![truffle test](documentation/activityDiagram.png)
+
+### Sequence Diagram
+
+![truffle test](documentation/sequenceDiagram.png)
+
+### State Diagram
+
+![truffle test](documentation/stateDiagram.png)
+
+### Class Diagram
+
+![truffle test](documentation/classDiagram.png)
 
 ## User Interface
 
