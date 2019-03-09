@@ -4,6 +4,12 @@ This is an Ethereum DApp that demonstrates a Supply Chain flow for coffee beans.
 
 A farmer can produce and sell coffee beans to a distributor who ships them to a retailer who sells them to a consumer.
 
+The farmer gets money ("productPrice") by selling his harvested, processed and packed coffee beans to the distributor.
+
+The distributor gets money from the retailer, when he has shipped the coffee beans to the retailer and the retailes has acknowledged the receipt of the transport. For simplicity, there is no margin of the distributor, so the distributor works "for free". He gets the exact amount of money from the retailer that he has paid to the farmer.
+
+Equally, when die customer purchases the coffee beans from the retailer, he just pays the "productPrice".
+
 ## Architecture
 
 There are four actors (farmer, distributor, retailer and consumer) who act like this.
@@ -36,6 +42,7 @@ The DApp User Interface when running should look like...
 
 ![truffle test](images/ftc_transaction_history.png)
 
+# ----------------------------------------------------------------------------------------------
 
 ## Getting Started
 
