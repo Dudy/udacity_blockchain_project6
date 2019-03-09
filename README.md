@@ -39,22 +39,22 @@ There are four actors (farmer, distributor, retailer and consumer) who act like 
 
 ### Activity Diagram
 
-![truffle test](documentation/activityDiagram.png)
+![activity](documentation/activityDiagram.png)
 
 ### Sequence Diagram
 
-![truffle test](documentation/sequenceDiagram.png)
+![sequence](documentation/sequenceDiagram.png)
 
 ### State Diagram
 
-![truffle test](documentation/stateDiagram.png)
+![state](documentation/stateDiagram.png)
 
 ### Class Diagram
 
-![truffle test](documentation/classDiagram.png)
+![class](documentation/classDiagram.png)
 
 ## User Interface
 
 The DApp User Interface when running looks like this...
 
-![truffle test](images/DirkLocal.png)
+![user interface](images/DirkLocal.png)
