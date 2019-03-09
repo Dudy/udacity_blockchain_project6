@@ -1,3 +1,5 @@
+// Version number 1
+
 pragma solidity ^0.4.24;
 
 import "../coffeecore/Ownable.sol";

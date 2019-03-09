@@ -58,3 +58,14 @@ There are four actors (farmer, distributor, retailer and consumer) who act like 
 The DApp User Interface when running looks like this...
 
 ![user interface](images/DirkLocal.png)
+
+# Version
+
+The used tools and versions:
+
+* SupplyChain: v1
+* node.js: v10.0.0
+* truffle: v4.1.15
+* solidity: v0.4.25
+* web3: v0.20.3
+
