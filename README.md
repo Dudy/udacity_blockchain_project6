@@ -10,6 +10,16 @@ The distributor gets money from the retailer, when he has shipped the coffee bea
 
 Equally, when die customer purchases the coffee beans from the retailer, he just pays the "productPrice".
 
+## Deployment
+
+The contracts are deployed in the Rinkeby test network at the following addresses:
+
+* FarmerRole: 0x46b908cf910a2fde2a04c7ed76a5556dff87a603
+* DistributorRole: 0xdfb06194d2ad041b5480b136ca7d506ebb0f00f0
+* RetailerRole: 0xea5b766ec573ee1c7b95d9afb1073f2767509091
+* ConsumerRole: 0x6b4713c49a8008da727594a0de1798babca0aed8
+* SupplyChain: 0xfb74e6d37b7872a9f6bd0a54d412ffa9e815d981
+
 ## Architecture
 
 There are four actors (farmer, distributor, retailer and consumer) who act like this.
